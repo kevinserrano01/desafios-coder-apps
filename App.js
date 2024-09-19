@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.parrafo}>
-        hola esta es mi primer Aplicacion Movil!
+        Hola esta es mi primer Aplicacion Movil!
       </Text>
       <Text style={styles.parrafo}>Hola Coder!</Text>
       <Button title="Presioname" onPress={() => alert("Hola Coder!")} />
