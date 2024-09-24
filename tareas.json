@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Comprar comestibles",
+        "completada": "False"
+    },
+    {
+        "id": 2,
+        "descripcion": "Pasear al perro",
+        "completada": "True"
+    },
+    {
+        "id": 3,
+        "descripcion": "Terminar el proyecto de React Native",
+        "completada": "False"
+    },
+    {
+        "id": 4,
+        "descripcion": "Leer un libro",
+        "completada": "True"
+    },
+    {
+        "id": 5,
+        "descripcion": "Planear el viaje del fin de semana",
+        "completada": "False"
+    }
+]
