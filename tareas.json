@@ -23,5 +23,80 @@
         "id": 5,
         "descripcion": "Planear el viaje del fin de semana",
         "completada": "False"
+    },
+    {
+        "id": 6,
+        "descripcion": "Hacer ejercicio",
+        "completada": "True"
+    },
+    {
+        "id": 7,
+        "descripcion": "Llamar a mi mamá",
+        "completada": "False"
+    },
+    {
+        "id": 8,
+        "descripcion": "Hacer la tarea de la universidad",
+        "completada": "True"
+    },
+    {
+        "id": 9,
+        "descripcion": "Limpiar la casa",
+        "completada": "False"
+    },
+    {
+        "id": 10,
+        "descripcion": "Hacer la lista de compras",
+        "completada": "True"
+    },
+    {
+        "id": 11,
+        "descripcion": "Hacer la tarea de la universidad",
+        "completada": "False"
+    },
+    {
+        "id": 12,
+        "descripcion": "Limpiar la casa",
+        "completada": "True"
+    },
+    {
+        "id": 13,
+        "descripcion": "Hacer la lista de compras",
+        "completada": "False"
+    },
+    {
+        "id": 14,
+        "descripcion": "Hacer la tarea de la universidad",
+        "completada": "True"
+    },
+    {
+        "id": 15,
+        "descripcion": "Limpiar la casa",
+        "completada": "False"
+    },
+    {
+        "id": 16,
+        "descripcion": "Hacer la lista de compras",
+        "completada": "True"
+    },
+    {
+        "id": 17,
+        "descripcion": "Hacer la tarea de la universidad",
+        "completada": "False"
+    },
+    {
+        "id": 18,
+        "descripcion": "Limpiar la casa",
+        "completada": "True"
+    },
+    {
+        "id": 19,
+        "descripcion": "Hacer la lista de compras",
+        "completada": "False"
+    },
+    {
+        "id": 20,
+        "descripcion": "Hacer la tarea de la universidad",
+        "completada": "True"
     }
 ]
